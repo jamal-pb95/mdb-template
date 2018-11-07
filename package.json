@@ -2,12 +2,14 @@
   "name": "random-quote-machine",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jamal-pb95.github.io/random-quote-machine/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.8",
     "@fortawesome/free-brands-svg-icons": "^5.5.0",
     "@fortawesome/react-fontawesome": "^0.1.3",
     "@material-ui/core": "^3.4.0",
     "axios": "^0.18.0",
+    "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
@@ -15,6 +17,8 @@
     "typeface-roboto": "^0.0.54"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
