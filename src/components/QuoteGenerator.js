@@ -6,8 +6,7 @@ import Button from '@material-ui/core/Button';
 import IconButton from  '@material-ui/core/IconButton';
 import Typography from '@material-ui/core/Typography';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faTwitter } from '@fortawesome/free-brands-svg-icons';
-
+import { faTwitter, faGithub } from '@fortawesome/free-brands-svg-icons';
 
 const QuoteGenerator = ({ selectedQuote, assignNewQuoteIndex }) => (
   <Card>
@@ -32,6 +31,17 @@ const QuoteGenerator = ({ selectedQuote, assignNewQuoteIndex }) => (
       >
         <FontAwesomeIcon
           icon={faTwitter}
+          size="lg">
+        </FontAwesomeIcon>
+      </IconButton>
+      {/* Github Repo */}
+      <IconButton
+        color="secondary"
+        target="_blank"
+        href={`https://github.com/jamal-pb95/random-quote-machine`}
+      >
+        <FontAwesomeIcon
+          icon={faGithub}
           size="lg">
         </FontAwesomeIcon>
       </IconButton>

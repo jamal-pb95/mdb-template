@@ -7,7 +7,7 @@ import { Grid, withStyles } from '@material-ui/core';
 import QuoteGenerator from './components/QuoteGenerator';
 
 // quote json file
-const URL = 'https://gist.githubusercontent.com/natebass/b0a548425a73bdf8ea5c618149fe1fce/raw/f4231cd5961f026264bb6bb3a6c41671b044f1f4/quotes.json';
+const URL = 'https://gist.githubusercontent.com/jamal-pb95/8e7099539618290e762cd8e0fb0d5f2a/raw/efd5f24eaf00f147f495cc364fc3698b5d258239/quotes.json';
 
 // main styles
 const styles = {
