@@ -1,10 +1,10 @@
 {
   "main.css": "/random-quote-machine/static/css/main.b5ac8687.chunk.css",
-  "main.js": "/random-quote-machine/static/js/main.c6012bae.chunk.js",
-  "main.js.map": "/random-quote-machine/static/js/main.c6012bae.chunk.js.map",
+  "main.js": "/random-quote-machine/static/js/main.e3cda6db.chunk.js",
+  "main.js.map": "/random-quote-machine/static/js/main.e3cda6db.chunk.js.map",
   "static/css/1.698df245.chunk.css": "/random-quote-machine/static/css/1.698df245.chunk.css",
-  "static/js/1.d89ce19c.chunk.js": "/random-quote-machine/static/js/1.d89ce19c.chunk.js",
-  "static/js/1.d89ce19c.chunk.js.map": "/random-quote-machine/static/js/1.d89ce19c.chunk.js.map",
+  "static/js/1.317ceeb7.chunk.js": "/random-quote-machine/static/js/1.317ceeb7.chunk.js",
+  "static/js/1.317ceeb7.chunk.js.map": "/random-quote-machine/static/js/1.317ceeb7.chunk.js.map",
   "runtime~main.js": "/random-quote-machine/static/js/runtime~main.b8507572.js",
   "runtime~main.js.map": "/random-quote-machine/static/js/runtime~main.b8507572.js.map",
   "static/media/index.css": "/random-quote-machine/static/media/roboto-latin-900italic.bc833e72.woff",
@@ -12,6 +12,6 @@
   "static/css/main.b5ac8687.chunk.css.map": "/random-quote-machine/static/css/main.b5ac8687.chunk.css.map",
   "static/css/1.698df245.chunk.css.map": "/random-quote-machine/static/css/1.698df245.chunk.css.map",
   "index.html": "/random-quote-machine/index.html",
-  "precache-manifest.be67bf4e2d05b52863c51b68f1f04c89.js": "/random-quote-machine/precache-manifest.be67bf4e2d05b52863c51b68f1f04c89.js",
+  "precache-manifest.7effdfc8209b12d7c237628be1b0d35a.js": "/random-quote-machine/precache-manifest.7effdfc8209b12d7c237628be1b0d35a.js",
   "service-worker.js": "/random-quote-machine/service-worker.js"
 }
